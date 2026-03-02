@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+:root {
+  /* --background: #ffffff; */
+  --foreground: #171717;
+}
+
+/* Enable dark mode support */
+/* :root {
+  color-scheme: light dark;
+} */
